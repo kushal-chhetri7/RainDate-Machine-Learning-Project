@@ -3,7 +3,7 @@
 
   
 RainDate is a web-application used for prediction of monthly rainfall in specified regions of Bhutan. RainDate takes parameters such as Max Temperature, Min Temperature, Relative humidity, and Windspeed to predict monthly amount rainfall in millimeter of specified region selected by users.
-
+ 
 <h3 align="center">Why RainDate?</h3>
 
 1. The accurate and precise rainfall prediction is still lacking which could assist in diverse fields like agriculture, water reservation, and flood prediction.
